@@ -1,0 +1,13 @@
+{
+	"name": "Hello World",
+	"description": "Another hello world example",
+	"launch_path": "/index.html",
+	"icons": {
+		"128": "icon.png"
+	},
+	"developer": {
+		"name": "Sean",
+		"url": "seanzawicki.com"
+	},
+	"default_locale": "en"
+}
