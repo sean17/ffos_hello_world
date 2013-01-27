@@ -6,5 +6,12 @@
 		<h1> 
 			This is my first ffos App!
 		</h1>
+		<script>
+var manifest_url = "http://my.webapp.com/manifest.json";
+</script>
+
+<button onclick="navigator.mozApps.install(manifest_url); return false;">
+  Install this awesome app on your homescreen!
+</button>
 	</body>
 </html>
