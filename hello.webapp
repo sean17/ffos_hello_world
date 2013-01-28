@@ -1,7 +1,7 @@
 {
 	"name": "Hello World",
 	"description": "Another hello world example",
-	"launch_path": "/newFile.html",
+	"launch_path": "/app.html",
 	"icons": {
 		"128": "/sabres_jersey.jpg"
 	},
