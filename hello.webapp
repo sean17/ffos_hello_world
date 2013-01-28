@@ -3,7 +3,7 @@
 	"description": "Another hello world example",
 	"launch_path": "/newFile.html",
 	"icons": {
-		"128": "icon.png"
+		"128": "sabres_jersey.jpg"
 	},
 	"developer": {
 		"name": "Sean",
